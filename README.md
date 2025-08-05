@@ -2,7 +2,7 @@
 Integrating Fuzzy Rough Set Based Entropies for Identifying Drug Resistant miRNAs in Cancer
 
 Download drug-resistant miRNA expression data from:
-a)        For esophageal cancer data: Esophageal_Cancer.csv.
+a)        For esophageal cancer data: Esophageal_Cancer.csv from (https://drive.google.com/file/d/15bkTE8p5gpJkQmvlbcmhExbBi7ohHaPW/view).
 b)        For lung cancer data: Lung_cancer.csv.
 2.        Open python and install the packages numpy, math, csv, pandas, sklearn, matplotlib, time, scipy.
         ( Use command 'pip install package_name' e.g., 'pip install pandas'. In higher versions of python use pip3 in place of pip. )
