@@ -21,8 +21,8 @@ The resultant set of miRNAs obtained using WFIFRRRE is also verified with the he
 studies. The source code of WFIFRRRE is available at https://www.isical.ac.in/~shubhra/WFIFRRRE.html.
 
 
-Download drug-resistant miRNA expression data from:
-a)        For esophageal cancer data: Esophageal_Cancer.csv from https://drive.google.com/file/d/15bkTE8p5gpJkQmvlbcmhExbBi7ohHaPW/view.
+## Download drug-resistant miRNA expression data from:
+a)    For esophageal cancer data: Esophageal_Cancer.csv from https://drive.google.com/file/d/15bkTE8p5gpJkQmvlbcmhExbBi7ohHaPW/view.
 b)        For lung cancer data: Lung_cancer.csv from https://drive.google.com/file/d/1dIWvaRnXesxZU7STZ_zOvMZJmZKt4mBj/view.
 2.        Open python and install the packages numpy, math, csv, pandas, sklearn, matplotlib, time, scipy.
         ( Use command 'pip install package_name' e.g., 'pip install pandas'. In higher versions of python use pip3 in place of pip. )
