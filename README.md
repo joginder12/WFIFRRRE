@@ -3,7 +3,8 @@
                              E-Mail: joginder265@gmail.com and shubhra@isical.ac.in
 
 ## Download drug-resistant miRNA expression data from:
-a)    For esophageal cancer data: Esophageal_Cancer.csv from https://drive.google.com/file/d/15bkTE8p5gpJkQmvlbcmhExbBi7ohHaPW/view.
+a)    For esophageal cancer data: Esophageal_Cancer.csv from https://drive.google.com/file/d/15bkTE8p5gpJkQmvlbcmhExbBi7ohHaPW/view.  
+
 b)        For lung cancer data: Lung_cancer.csv from https://drive.google.com/file/d/1dIWvaRnXesxZU7STZ_zOvMZJmZKt4mBj/view.
 2.        Open python and install the packages numpy, math, csv, pandas, sklearn, matplotlib, time, scipy.
         ( Use command 'pip install package_name' e.g., 'pip install pandas'. In higher versions of python use pip3 in place of pip. )
