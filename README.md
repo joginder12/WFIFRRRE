@@ -8,7 +8,7 @@ a)    For esophageal cancer data: - <a href = "https://drive.google.com/file/d/1
 b)    For lung cancer data: - <a href = "https://drive.google.com/file/d/1dIWvaRnXesxZU7STZ_zOvMZJmZKt4mBj/view">Lung_cancer.csv </a> 
 
 ## Steps to Run WFIFRRRE
-2.  Open python and install the packages numpy, math, csv, pandas, sklearn, matplotlib, time, scipy. \n
+2.  Open python and install the packages numpy, math, csv, pandas, sklearn, matplotlib, time, scipy.  
 ( Use command 'pip install package_name' e.g., 'pip install pandas'. In higher versions of python use pip3 in place of pip. )
 *         In windows environment if Spyder is used for python then one has to install pip package first using command "python get-pip.py"
 3.        Download the code for WFIFRRRE from:WFIFRRRE.py
