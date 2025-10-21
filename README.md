@@ -5,7 +5,8 @@
 ## Download drug-resistant miRNA expression data from:
 a)    For esophageal cancer data: - <a href = "https://drive.google.com/file/d/15bkTE8p5gpJkQmvlbcmhExbBi7ohHaPW/view">Esophageal_Cancer.csv </a>
 
-b)        For lung cancer data: Lung_cancer.csv from https://drive.google.com/file/d/1dIWvaRnXesxZU7STZ_zOvMZJmZKt4mBj/view.
+b)    For lung cancer data: - <a href = "https://drive.google.com/file/d/1dIWvaRnXesxZU7STZ_zOvMZJmZKt4mBj/view">Lung_cancer.csv </a> 
+
 2.        Open python and install the packages numpy, math, csv, pandas, sklearn, matplotlib, time, scipy.
         ( Use command 'pip install package_name' e.g., 'pip install pandas'. In higher versions of python use pip3 in place of pip. )
 *         In windows environment if Spyder is used for python then one has to install pip package first using command "python get-pip.py"
