@@ -8,17 +8,17 @@ a)    For esophageal cancer data: - <a href = "https://drive.google.com/file/d/1
 b)    For lung cancer data: - <a href = "https://drive.google.com/file/d/1dIWvaRnXesxZU7STZ_zOvMZJmZKt4mBj/view">Lung_cancer.csv </a> 
 
 ## Steps to Run WFIFRRRE
-2. Open Python and install the packages **numpy**, **math**, **csv**, **pandas**, **sklearn**, **matplotlib**, **time**, **scipy**.  
+1. Open Python and install the packages **numpy**, **math**, **csv**, **pandas**, **sklearn**, **matplotlib**, **time**, **scipy**.  
 (Use command `pip install package_name` e.g., `pip install pandas`.  
 In higher versions of Python, use `pip3` in place of `pip`.)  
 * In Windows environment, if **Spyder** is used for Python, then one has to install the **pip** package first using the command  
   `"python get-pip.py"`  
 
-3. Download the code for **WFIFRRRE** from: <a href = "https://drive.google.com/file/d/1udKiNOxF1ijS0obbX3zpNC9auGLEZ7D8/view">`WFIFRRRE.py` </a>    
+2. Download the code for **WFIFRRRE** from: <a href = "https://drive.google.com/file/d/1udKiNOxF1ijS0obbX3zpNC9auGLEZ7D8/view">`WFIFRRRE.py` </a>    
 
-4. Keep the code and the datasets in the same folder, otherwise change the folder path along with the name of the dataset in the code (**Line number 18**).  
+3. Keep the code and the datasets in the same folder, otherwise change the folder path along with the name of the dataset in the code (**Line number 18**).  
 
-5. Run `WFIFRRRE.py` to produce `WFIFRRRE_Result.csv` and `WFIFRRRE_performance.csv`.  
+4. Run `WFIFRRRE.py` to produce `WFIFRRRE_Result.csv` and `WFIFRRRE_performance.csv`.  
    - `WFIFRRRE_Result.csv` contains the **miRNA names**.  
    - `WFIFRRRE_performance.csv` contains the **classification performance** achieved by the method considering the selected **1% of miRNAs**.  
 
